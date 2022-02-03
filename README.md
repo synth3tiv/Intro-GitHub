@@ -7,3 +7,5 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 Sesion de github.
 
 ## Insertamos una imagen
+
+![resultadosSFWIT](img/SFWIT.png)
